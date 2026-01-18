@@ -2,7 +2,7 @@ An easy to play, offline version of Briscola that plays well on your smartphone 
 
 No adds and no special permission requirements! 
 
-To install on your device, go to https://girumsam174.github.io/briscola/ then go to your browser's menu and click add to homescreen.
+To install on your device, go to https://girumsam174.github.io/Briscola/ then go to your browser's menu and click add to homescreen.
 
 My testing environment is an older Samsung smartphone, so your mileage may vary, but it should work on iOS as well.
 
