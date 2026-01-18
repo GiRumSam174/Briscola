@@ -1,4 +1,4 @@
-An easy to play, offline version of Briscola that plays well on your smartphone in portrait or landscape mode. 
+An easy to play, offline version of Briscola that plays well on your smartphone in portrait or landscape mode. It's just you versus your CPU.
 
 No adds and no special permission requirements! 
 
