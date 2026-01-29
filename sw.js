@@ -1,4 +1,4 @@
-const CACHE_NAME = 'briscola-v6';
+const CACHE_NAME = 'briscola-v3.1';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
